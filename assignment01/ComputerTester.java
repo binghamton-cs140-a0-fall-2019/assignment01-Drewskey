@@ -1,5 +1,4 @@
 package assignment01;
-<<<<<<< HEAD
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
@@ -39,7 +38,3 @@ public class ComputerTester{
       }
   }
 }
-=======
-
-
->>>>>>> 756c32247216a5a9e2480ea2be30eeb85193ecf4
