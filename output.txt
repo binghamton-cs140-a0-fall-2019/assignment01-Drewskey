@@ -1,0 +1,37 @@
+
+TESTS FOR StreetUSAddress.java:
+2900 Southern Boulevard
+Bronx, NY 10458
+420 Round Hill Road
+Apt 5I
+Yonkers, NY 10705
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 1732-02-22, Popes Creek, Virginia, USA
+Date and place of birth: 1809-02-12, Hardin County, Kentucky, USA
+Date and place of birth: 2000-02-12, Yonkers, New York, USA
+Date and place of birth: 1809-02-12, Shrewsberry, England
+Date and place of birth: 1867-11-07, Warsaw, Poland
+truetruetruetruefalsetruefalsetruefalsefalsefalsefalsefalsefalsetruetruefalsefalsetruefalsefalsefalsefalsefalsetruefalsefalsefalsetruetruetruetruetruefalsefalsefalsetruetruefalsetruefalsefalsefalsefalsefalsefalsetruefalsefalsefalsefalsefalsefalsetruefalsefalsefalsefalsefalsefalsefalsefalsefalsefalsefalsetruetruefalsefalsetruetruefalsefalsetruetruefalsefalsefalsefalsefalse
+TESTS FOR Person.java:
+Andrew Ricci (420694604),
+Date and place of birth: 2000-02-12, Yonkers, New York, USA,
+6 Alpha Street
+Yonkers, NY 10707
+TESTS FOR Computer.java:
+Lenovo, Quad Core Nividia Terga 3, 16GB Memory, 1.2TB Hard Drive, Price: $3000.00 
+Apple, Intel Core i9, 12GB Memory, 500GB Hard Drive, Price: $3750.00 
+Dell, Six Core U-SeriesCore i7, 18GB Memory, 128GB Solid State Drive, Price: $2500.00 
+Chromebook, Intel Celeron N2830, 16GB Memory, 1.1TB Solid State Drive, Price: $2300.00 
+TESTS FOR ComputerOwnerTester.java:
+Computer List, Owner: Nick Deoki (101101010),
+Date and place of birth: 1980-06-27, Scarsdale, New York, USA,
+6 Beta Street
+San Fransisco, CA 90210
+Computers: [Lenovo, Quad Core Nividia Terga 3, 16GB Memory, 1.2TB Hard Drive, Price: $3000.00 , Apple, Intel Core i9, 12GB Memory, 500GB Hard Drive, Price: $3750.00 , Dell, Six Core U-SeriesCore i7, 18GB Memory, 128GB Solid State Drive, Price: $2500.00 , Chromebook, Intel Celeron N2830, 16GB Memory, 1.1TB Solid State Drive, Price: $2300.00 ]
+
+
+Computer List, Owner: Nick Deoki (101101010),
+Date and place of birth: 1980-06-27, Scarsdale, New York, USA,
+6 Beta Street
+San Fransisco, CA 90210
+Computers: [Apple, Intel Core i9, 12GB Memory, 500GB Hard Drive, Price: $3750.00 , Dell, Six Core U-SeriesCore i7, 18GB Memory, 128GB Solid State Drive, Price: $2500.00 ]
